@@ -1,0 +1,29 @@
+.Apps{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 100%;
+}
+
+.hello{
+  width: 50%;
+  height: 50%;
+  float:left;
+}
+.ooi{
+  width: 50%;
+  height: 50%;
+  float:right;
+}
+.ok{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}

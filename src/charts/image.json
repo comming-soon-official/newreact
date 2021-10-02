@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Chart",
+        "imgs" : "/images/chart1.png",
+        "content": "<Chart />"
+    },
+    {
+        "title":"Area",
+        "imgs" : "/images/area.png",
+        "content": "<Area />"
+    },
+
+    {
+        "title":"Box",
+        "imgs" : "/images/box.png",
+        "content": "<Mychart />"
+    },
+
+    {
+        "title":"HeatMap",
+        "imgs" : "/images/Heatmap.png",
+        "content": "<Heat />"
+    },
+
+    {
+        "title":"Scatter",
+        "imgs" : "/images/Scatter.png",
+        "content": "<Scatter />"
+    }
+
+    
+]

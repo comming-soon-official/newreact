@@ -1,0 +1,42 @@
+
+  .hey{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(202, 202, 202);
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  
+
+  Charts{
+    background-color: white;
+  }
+  .hello{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    padding: 10px;
+    width: 600px;
+    height: 450px;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 5 px 15px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+  }
+  /* .ooi{
+    width: 50%;
+    height: 50%;
+    float:right;
+  } */
+button{
+    position: absolute;
+    top: 12%;
+    left: 25%;
+    cursor: pointer;
+}
+  
